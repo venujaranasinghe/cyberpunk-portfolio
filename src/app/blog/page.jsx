@@ -5,7 +5,7 @@ import { ArrowLeft, Calendar, Clock, ArrowRight, User, Tag, TrendingUp, Terminal
 
 export default function Blog() {
   const featuredPost = {
-    title: "THE_FUTURE_OF_WEB_DEVELOPMENT_2024",
+    title: "THE_FUTURE_OF_WEB_DEVELOPMENT_2025",
     excerpt:
       "Exploring quantum computing integration, AI-driven development workflows, and the emergence of neural network-powered user interfaces in modern web applications.",
     date: "2024-01-20",
